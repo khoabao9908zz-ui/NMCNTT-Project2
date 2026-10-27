@@ -1,19 +1,19 @@
 # ♻️ Smart EcoSort AI (Waste Classification & Recycling Guidance Solution)
-🔗 **AI Web Application Link:** *[Updating - Hugging Face Spaces link will be added upon deployment]*
+ **AI Web Application Link:** *[Updating - Hugging Face Spaces link will be added upon deployment]*
 
-## 📌 1. Project Overview
+##  1. Project Overview
 - **Project Name:** Smart EcoSort AI - Intelligent Waste Classification Solution
 - **Problem:** Sorting waste at the source (universities, dormitories, public areas) remains ineffective due to a lack of awareness and confusion over recyclable material categories in Vietnam.
 - **Proposed AI Solution:** We propose a mobile-friendly AI application where users take a photo of waste items (plastic bottles, used paper, food containers, etc.). The system utilizes a pre-trained Image Classification / Object Detection model to identify the waste category and provide clear recycling guidelines (e.g., recyclable bin, hazardous waste bin, general trash).
 - **Application Scope:** AI Solution Proposal, User Experience Design, and Empirical Performance Evaluation.
 
-## 🛠️ 2. Core Technologies & AI Tools
+##  2. Core Technologies & AI Tools
 - **AI Model / Platform:** Pre-trained Waste Classification Model hosted on Hugging Face Spaces / Google Cloud AI
 - **Frontend & UI:** Streamlit (Mobile-friendly Web Application)
 - **Programming Language:** Python 3.9+
 - **Version Control & Collaboration:** Git & GitHub
   
-## 🚀 3. Getting Started
+##  3. Getting Started
 ### Prerequisites
 Ensure Python 3.9 or higher is installed on your environment.
 ### Installation & Local Setup
