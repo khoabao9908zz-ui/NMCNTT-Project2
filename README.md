@@ -8,7 +8,7 @@
 - **Application Scope:** AI Solution Proposal, User Experience Design, and Empirical Performance Evaluation.
 
 ##  2. Core Technologies & AI Tools
-- **AI Model / Platform:** Pre-trained Waste Classification Model hosted on Hugging Face Spaces / Google Cloud AI
+- **AI Model / Platform:** Pre-trained Waste Classification Model hosted on Hugging Face Spaces
 - **Frontend & UI:** Streamlit (Mobile-friendly Web Application)
 - **Programming Language:** Python 3.9+
 - **Version Control & Collaboration:** Git & GitHub
