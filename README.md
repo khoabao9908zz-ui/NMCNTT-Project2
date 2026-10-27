@@ -1,5 +1,5 @@
 # ♻️ Smart EcoSort AI (Waste Classification & Recycling Guidance Solution)
- **AI Web Application Link:** *[Updating - Hugging Face Spaces link will be added upon deployment]*
+ **AI Web Application Link:** *https://colab.research.google.com/drive/1MBx-vFEMHeDzthvxNcz0shQae_cHNEN1?usp=sharing*
 
 ##  1. Project Overview
 - **Project Name:** Smart EcoSort AI - Intelligent Waste Classification Solution
