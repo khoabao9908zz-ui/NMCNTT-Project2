@@ -1,0 +1,16 @@
+# macOS
+.DS_Store
+.localized
+
+# Compiled C++ files
+*.o
+*.out
+*.exe
+
+# Python
+__pycache__/
+*.pyc
+
+# Temporary files
+tempCodeRunnerFile
+tempCodeRunnerFile.cpp
